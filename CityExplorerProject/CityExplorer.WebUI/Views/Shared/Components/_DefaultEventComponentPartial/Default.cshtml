@@ -1,0 +1,32 @@
+﻿@model List<ResultEventDto>
+
+<section class="city-info py-5">
+    <div class="container text-center">
+        <h2 class="display-5 font-weight-bold mb-4" style="text-align: left;">🎉Yaklaşan Etkinlikler</h2>
+
+        <div class="container">
+            <div class="chat-images-container-wrapper" style="position: relative; overflow: hidden;">
+                <div class="chat-image-container" style="display: flex; transition: transform 0.3s ease;">
+
+                    @foreach (var item in Model)
+                    {
+                        <!-- Etkinlik Kartı 1 -->
+                        <div style="padding: 15px; width: 300px; background: none;">
+                            <img src="@item.ImageUrl" style="width:150px; height:150px; border-radius:50%;" />
+                            <h3>@item.Name</h3>
+                            <p>@item.Location</p>
+                            <p>🗓️ @item.StartDate</p>
+                            <p>@item.Description</p>
+                                <a href="/Event/EventDetail/@item.EventID" style="text-decoration: none;">Detayları Gör →</a>
+                        </div>
+                    }
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div style="text-align: center; margin-top: 20px;">
+    <a href="/etkinlikler" style="padding: 10px 20px; color: white; border-radius: 5px; text-decoration: none;">Tüm Etkinlikleri Gör</a>
+</div>

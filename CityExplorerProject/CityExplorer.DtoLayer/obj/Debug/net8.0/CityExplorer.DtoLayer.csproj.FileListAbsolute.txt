@@ -1,0 +1,11 @@
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DtoLayer\bin\Debug\net8.0\CityExplorer.DtoLayer.deps.json
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DtoLayer\bin\Debug\net8.0\CityExplorer.DtoLayer.dll
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DtoLayer\bin\Debug\net8.0\CityExplorer.DtoLayer.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DtoLayer\obj\Debug\net8.0\CityExplorer.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DtoLayer\obj\Debug\net8.0\CityExplorer.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DtoLayer\obj\Debug\net8.0\CityExplorer.DtoLayer.AssemblyInfo.cs
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DtoLayer\obj\Debug\net8.0\CityExplorer.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DtoLayer\obj\Debug\net8.0\CityExplorer.DtoLayer.dll
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DtoLayer\obj\Debug\net8.0\refint\CityExplorer.DtoLayer.dll
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DtoLayer\obj\Debug\net8.0\CityExplorer.DtoLayer.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DtoLayer\obj\Debug\net8.0\ref\CityExplorer.DtoLayer.dll

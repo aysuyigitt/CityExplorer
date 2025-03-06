@@ -1,0 +1,70 @@
+﻿@model List<ResultBlogDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+    int count = 0;
+}
+
+<div class="page-content">
+    <div class="container-fluid">
+
+        <!-- start page title -->
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Blog Listesi</h4>
+                        <p class="card-subtitle mb-4">
+                            Blog ilgili işlemlerin gerçekleştireleceği sayfadır.
+                        </p>
+                        <div class="table-responsive">
+                            <table class="table mb-0">
+                                <thead>
+                                    <tr>
+                                        <th>#</th>
+                                        <th>Blog Adı</th>
+                                        <th>Blog İçeriği</th>
+                                        <th>Blog Tarihi</th>
+                                        <th>Blog Resmi</th>
+                                        <th>Sil</th>
+                                        <th>Güncelle</th>
+
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        count++;
+                                        <tr>
+                                            <td>@count</td>
+                                            <td>@item.Title</td>
+                                            <td>@item.Content</td>
+                                            <td>@item.PublishedDate</td>
+                                            <td>@item.ImageUrl</td>
+                                            <td><a href="/Admin/AdminBlog/RemoveBlog/@item.BlogID" class="btn btn-outline-danger">Sil</a></td>
+                                            <td><a href="/Admin/AdminBlog/UpdateBlog/@item.BlogID" class="btn btn-outline-success">Güncelle</a></td>
+
+
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                            <td><a href="/Admin/AdminBlog/CreateBlog" class="btn btn-outline-primary">Yeni Blog Girişi</a></td>
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+            </div>
+
+
+        </div>
+
+
+
+    </div>
+</div>
+
+

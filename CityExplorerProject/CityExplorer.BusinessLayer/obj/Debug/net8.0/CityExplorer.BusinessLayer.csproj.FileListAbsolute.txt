@@ -1,0 +1,17 @@
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.BusinessLayer\bin\Debug\net8.0\CityExplorer.BusinessLayer.deps.json
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.BusinessLayer\bin\Debug\net8.0\CityExplorer.BusinessLayer.dll
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.BusinessLayer\bin\Debug\net8.0\CityExplorer.BusinessLayer.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.BusinessLayer\bin\Debug\net8.0\CityExplorer.DataAccessLayer.dll
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.BusinessLayer\bin\Debug\net8.0\CityExplorer.EntitiesLayer.dll
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.BusinessLayer\bin\Debug\net8.0\CityExplorer.DataAccessLayer.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.BusinessLayer\bin\Debug\net8.0\CityExplorer.EntitiesLayer.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.BusinessLayer\obj\Debug\net8.0\CityExplorer.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.BusinessLayer\obj\Debug\net8.0\CityExplorer.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.BusinessLayer\obj\Debug\net8.0\CityExplorer.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.BusinessLayer\obj\Debug\net8.0\CityExplorer.BusinessLayer.AssemblyInfo.cs
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.BusinessLayer\obj\Debug\net8.0\CityExplorer.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.BusinessLayer\obj\Debug\net8.0\CityExpl.8C56CCFD.Up2Date
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.BusinessLayer\obj\Debug\net8.0\CityExplorer.BusinessLayer.dll
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.BusinessLayer\obj\Debug\net8.0\refint\CityExplorer.BusinessLayer.dll
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.BusinessLayer\obj\Debug\net8.0\CityExplorer.BusinessLayer.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.BusinessLayer\obj\Debug\net8.0\ref\CityExplorer.BusinessLayer.dll

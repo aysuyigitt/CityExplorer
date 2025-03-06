@@ -1,0 +1,17 @@
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DataAccessLayer\bin\Debug\net8.0\CityExplorer.DataAccessLayer.deps.json
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DataAccessLayer\bin\Debug\net8.0\CityExplorer.DataAccessLayer.runtimeconfig.json
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DataAccessLayer\bin\Debug\net8.0\CityExplorer.DataAccessLayer.dll
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DataAccessLayer\bin\Debug\net8.0\CityExplorer.DataAccessLayer.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DataAccessLayer\bin\Debug\net8.0\CityExplorer.EntitiesLayer.dll
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DataAccessLayer\bin\Debug\net8.0\CityExplorer.EntitiesLayer.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DataAccessLayer\obj\Debug\net8.0\CityExplorer.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DataAccessLayer\obj\Debug\net8.0\CityExplorer.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DataAccessLayer\obj\Debug\net8.0\CityExplorer.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DataAccessLayer\obj\Debug\net8.0\CityExplorer.DataAccessLayer.AssemblyInfo.cs
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DataAccessLayer\obj\Debug\net8.0\CityExplorer.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DataAccessLayer\obj\Debug\net8.0\CityExpl.4FEC947B.Up2Date
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DataAccessLayer\obj\Debug\net8.0\CityExplorer.DataAccessLayer.dll
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DataAccessLayer\obj\Debug\net8.0\refint\CityExplorer.DataAccessLayer.dll
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DataAccessLayer\obj\Debug\net8.0\CityExplorer.DataAccessLayer.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DataAccessLayer\obj\Debug\net8.0\CityExplorer.DataAccessLayer.genruntimeconfig.cache
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.DataAccessLayer\obj\Debug\net8.0\ref\CityExplorer.DataAccessLayer.dll

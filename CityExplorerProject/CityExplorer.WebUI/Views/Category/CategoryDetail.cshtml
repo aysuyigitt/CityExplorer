@@ -1,0 +1,133 @@
+﻿@model List<ResultCategoryDetailDto>
+
+@{
+    ViewData["Title"] = "Tarihi Yerler";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container py-5">
+    <!-- Sayfa Başlık ve Tanıtım -->
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card shadow-lg border-0 rounded-3 overflow-hidden h-100">
+                    <img src="@item.ImageUrl" class="card-img-top" alt="@item.Name" style="height: 220px; object-fit: cover;">
+                    <div class="card-body">
+                        <h5 class="card-title fw-bold text-dark">@item.Name</h5>
+                        <p class="card-text text-muted">@item.Description</p>
+                        <p class="card-text text-muted">@item.Rating</p>
+                        <!-- Konum ve Bilgiler Butonları -->
+                        <div class="d-flex justify-content-between align-items-center">
+                          @*   <a href="#" class="btn btn-outline-danger btn-sm">📍 Konum</a> *@
+                            <!-- Bilgi Butonu -->
+                            <a href="#" class="btn btn-outline-info btn-sm" data-bs-toggle="modal" data-bs-target="#detailModal" data-name="@item.Name" data-description="@item.Description" data-rating="@item.Rating" data-image="@item.ImageUrl">🧐 Detaylı Bakış</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Kart Sonu -->
+            </div>
+        }
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="detailModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Tarihi Yer Detayı</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="container">
+                    <img id="modalImage" src="" alt="" class="img-fluid mb-3">
+                    <h5 id="modalName"></h5>
+                    <p id="modalDescription"></p>
+                    <p id="modalRating"></p>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Kapat</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- CSS -->
+<style>
+    .card {
+        background: none !important;
+        border: none !important;
+    }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        }
+
+    .card-img-top {
+        border-bottom: 4px solid #ddd;
+    }
+
+    .card-title {
+        font-size: 1.25rem;
+    }
+
+    .btn-outline-danger {
+        border-width: 2px;
+    }
+
+    .btn-outline-info {
+        border-width: 2px;
+    }
+
+    .card-body {
+        background: none !important;
+        padding: 1rem;
+    }
+
+    .container {
+        max-width: 1200px;
+    }
+
+    .text-danger {
+        color: #e53935 !important;
+    }
+
+    .btn-outline-danger:hover {
+        background-color: #e53935;
+    }
+
+    .btn-outline-info:hover {
+        background-color: #1e88e5;
+    }
+
+    .card-body p {
+        font-size: 0.9rem;
+    }
+
+    .lead {
+        font-size: 1.1rem;
+    }
+</style>
+
+<!-- JavaScript (Modal İçeriği ve Açılış) -->
+<script>
+    // Butona tıklama olayını dinliyoruz
+    document.querySelectorAll('.btn-outline-info').forEach(button => {
+        button.addEventListener('click', function () {
+            // Kartın detaylarını alıyoruz
+            const name = button.getAttribute('data-name');
+            const description = button.getAttribute('data-description');
+            const rating = button.getAttribute('data-rating');
+            const imageUrl = button.getAttribute('data-image');
+
+            // Modal içeriğini güncelliyoruz
+            document.getElementById('modalName').textContent = name;
+            document.getElementById('modalDescription').textContent = description;
+            document.getElementById('modalRating').textContent = rating;
+            document.getElementById('modalImage').src = imageUrl;
+        });
+    });
+</script>

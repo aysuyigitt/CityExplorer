@@ -1,0 +1,55 @@
+﻿@model CreateEventDto
+@{
+    ViewData["Title"] = "CreateEvent";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<div class="page-content">
+    <div class="container-fluid">
+
+        <!-- start page title -->
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Etkinlik Veri Girişi Alanı</h4>
+                        <p class="card-subtitle mb-4"> Ana Sayfanın Etkinlik alanında bulunan bilgileri aşağıdan düzenleyebilirsiniz.</p>
+                        <form method="post">
+
+                            <div class="form-group">
+                                <label for="exampleInputTitle">Etkinlik Adı</label>
+                                <input type="text" class="form-control" id="exampleInputTitle" asp-for="Name" placeholder="Etkinlik Başlığı Giriniz">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputDescription">Etkinlik Açıklama</label>
+                                <textarea rows="5" asp-for="Description" class="form-control" placeholder="Etkinlik Açıklama Giriniz"></textarea>
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputVideoImageUrl">Etkinlik Resmi</label>
+                                <input type="text" class="form-control" id="exampleInputVideoImageUrl" asp-for="ImageUrl" placeholder="Etkinlik Kapak Fotoğraf Linkini Giriniz">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputStartDate">Etkinlik Tarihi</label>
+                                <input type="text" class="form-control" id="exampleInputStartDate" asp-for="StartDate" placeholder="Etkinlik Tarihi Giriniz">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputLocation">Etkinlik Yeri</label>
+                                <input type="text" class="form-control" id="exampleInputLocation" asp-for="Location" placeholder="Etkinlik Yeri Giriniz">
+                            </div>
+                            <button type="submit" class="btn btn-primary waves-effect waves-light">Etkinlik Bilgisini Kaydet</button>
+                        </form>
+
+                    </div>
+                </div>
+
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+</div>
+

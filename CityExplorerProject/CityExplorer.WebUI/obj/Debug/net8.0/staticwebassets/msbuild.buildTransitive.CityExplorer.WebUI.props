@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CityExplorer.WebUI.props" />
+</Project>

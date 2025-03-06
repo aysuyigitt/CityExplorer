@@ -1,0 +1,11 @@
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.EntitiesLayer\bin\Debug\net8.0\CityExplorer.EntitiesLayer.deps.json
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.EntitiesLayer\bin\Debug\net8.0\CityExplorer.EntitiesLayer.dll
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.EntitiesLayer\bin\Debug\net8.0\CityExplorer.EntitiesLayer.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.EntitiesLayer\obj\Debug\net8.0\CityExplorer.EntitiesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.EntitiesLayer\obj\Debug\net8.0\CityExplorer.EntitiesLayer.AssemblyInfoInputs.cache
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.EntitiesLayer\obj\Debug\net8.0\CityExplorer.EntitiesLayer.AssemblyInfo.cs
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.EntitiesLayer\obj\Debug\net8.0\CityExplorer.EntitiesLayer.csproj.CoreCompileInputs.cache
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.EntitiesLayer\obj\Debug\net8.0\CityExplorer.EntitiesLayer.dll
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.EntitiesLayer\obj\Debug\net8.0\refint\CityExplorer.EntitiesLayer.dll
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.EntitiesLayer\obj\Debug\net8.0\CityExplorer.EntitiesLayer.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\CityExplorerProject\CityExplorer.EntitiesLayer\obj\Debug\net8.0\ref\CityExplorer.EntitiesLayer.dll

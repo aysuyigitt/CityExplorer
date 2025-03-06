@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@await Component.InvokeAsync("_DefaultNavbarComponentPartial")
+
+@await Component.InvokeAsync("_DefaultCityJourneyComponentPartial")
+
+@await Component.InvokeAsync("_DefaultPopularSpotsComponentPartial")
+
+@await Component.InvokeAsync("_DefaultCityComponentPartial")
+ 
+@await Component.InvokeAsync("_DefaultCategoryComponentPartial")
+
+@await Component.InvokeAsync("_DefaultEventComponentPartial")
+
+@await Component.InvokeAsync("_DefaultBlogComponentPartial")
+
+@await Component.InvokeAsync("_DefaultTestimonialComponentPartial")
+
+
+<section class="social-media py-5">
+    <div class="container text-center">
+        <h2 class="display-5 font-weight-bold mb-4">Bizi Takip Edin</h2>
+        <p>En güncel haberler ve paylaşımlar için sosyal medya hesaplarımızı takip edin.</p>
+
+        <div class="social-icons">
+            <a href="https://facebook.com" target="_blank" class="social-icon">
+                <img src="/img/instagram.png" style="height:50px; width:auto;" />
+            </a>
+            <a href="https://twitter.com" target="_blank" class="social-icon">
+                <img src="/img/twitter.png" style="height:30px; width:30px;" />
+            </a>
+            <a href="https://instagram.com" target="_blank" class="social-icon">
+                <img src="/img/yap.jpg" style="height:50px; width:50px;" />
+            </a>
+
+        </div>
+    </div>
+</section>
+
+
+
+
+<!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
+
+

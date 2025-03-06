@@ -1,0 +1,749 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CityExplorer.WebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CityExplorer.WebUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\Sumbullu-Bahce-Konagi.jpg",
+      "PackagePath": "staticwebassets\\img\\Sumbullu-Bahce-Konagi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\ada.jpg",
+      "PackagePath": "staticwebassets\\img\\ada.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\adaland.jpg",
+      "PackagePath": "staticwebassets\\img\\adaland.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\agac.jpg",
+      "PackagePath": "staticwebassets\\img\\agac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\agrı.jpg",
+      "PackagePath": "staticwebassets\\img\\agrı.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\akvaryum.jpg",
+      "PackagePath": "staticwebassets\\img\\akvaryum.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\alacati.jpg",
+      "PackagePath": "staticwebassets\\img\\alacati.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\alıs.jpeg",
+      "PackagePath": "staticwebassets\\img\\alıs.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\alıs1.jpg",
+      "PackagePath": "staticwebassets\\img\\alıs1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\alıs2.jpg",
+      "PackagePath": "staticwebassets\\img\\alıs2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\alıs3.jpg",
+      "PackagePath": "staticwebassets\\img\\alıs3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\amasya.jpg",
+      "PackagePath": "staticwebassets\\img\\amasya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\ankara.jpg",
+      "PackagePath": "staticwebassets\\img\\ankara.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\antalya.jpg",
+      "PackagePath": "staticwebassets\\img\\antalya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\antartika.jpg",
+      "PackagePath": "staticwebassets\\img\\antartika.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\astronomi.jpg",
+      "PackagePath": "staticwebassets\\img\\astronomi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\ay.png",
+      "PackagePath": "staticwebassets\\img\\ay.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\açıkhava.png",
+      "PackagePath": "staticwebassets\\img\\açıkhava.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\background.jpg",
+      "PackagePath": "staticwebassets\\img\\background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\baklava.jpg",
+      "PackagePath": "staticwebassets\\img\\baklava.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\balon.jpg",
+      "PackagePath": "staticwebassets\\img\\balon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\bisiklet.jpg",
+      "PackagePath": "staticwebassets\\img\\bisiklet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\blog1.jpeg",
+      "PackagePath": "staticwebassets\\img\\blog1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\bodrum.jpg",
+      "PackagePath": "staticwebassets\\img\\bodrum.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\bolu.jpg",
+      "PackagePath": "staticwebassets\\img\\bolu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\canakkale.jpg",
+      "PackagePath": "staticwebassets\\img\\canakkale.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\caz.jpg",
+      "PackagePath": "staticwebassets\\img\\caz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\cazz.jpg",
+      "PackagePath": "staticwebassets\\img\\cazz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\dag.jpg",
+      "PackagePath": "staticwebassets\\img\\dag.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\dere.jpg",
+      "PackagePath": "staticwebassets\\img\\dere.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\dino.jpg",
+      "PackagePath": "staticwebassets\\img\\dino.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\doga.jpg",
+      "PackagePath": "staticwebassets\\img\\doga.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\dolmabahçe.jpg",
+      "PackagePath": "staticwebassets\\img\\dolmabahçe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\dopaa.jpg",
+      "PackagePath": "staticwebassets\\img\\dopaa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\doğal.jpg",
+      "PackagePath": "staticwebassets\\img\\doğal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\efes.jpg",
+      "PackagePath": "staticwebassets\\img\\efes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\eglence4.jpg",
+      "PackagePath": "staticwebassets\\img\\eglence4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\erciyes.jpg",
+      "PackagePath": "staticwebassets\\img\\erciyes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\erzurum.jpg",
+      "PackagePath": "staticwebassets\\img\\erzurum.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\eskikale.jpg",
+      "PackagePath": "staticwebassets\\img\\eskikale.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\ev2.jpg",
+      "PackagePath": "staticwebassets\\img\\ev2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\eğlence1.jpg",
+      "PackagePath": "staticwebassets\\img\\eğlence1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\eğlence2.jpg",
+      "PackagePath": "staticwebassets\\img\\eğlence2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\faore.jpg",
+      "PackagePath": "staticwebassets\\img\\faore.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\festi1.jpg",
+      "PackagePath": "staticwebassets\\img\\festi1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\galata.jpg",
+      "PackagePath": "staticwebassets\\img\\galata.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\galata2.jpg",
+      "PackagePath": "staticwebassets\\img\\galata2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\gaziantep.jpg",
+      "PackagePath": "staticwebassets\\img\\gaziantep.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\gocek.jpg",
+      "PackagePath": "staticwebassets\\img\\gocek.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\hatay.jpg",
+      "PackagePath": "staticwebassets\\img\\hatay.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\hava.jpg",
+      "PackagePath": "staticwebassets\\img\\hava.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\images (1).png",
+      "PackagePath": "staticwebassets\\img\\images (1).png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\images (2).jpg",
+      "PackagePath": "staticwebassets\\img\\images (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\images (3).jpg",
+      "PackagePath": "staticwebassets\\img\\images (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\images.png",
+      "PackagePath": "staticwebassets\\img\\images.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\insan2.jpg",
+      "PackagePath": "staticwebassets\\img\\insan2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\insan4.jpg",
+      "PackagePath": "staticwebassets\\img\\insan4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\instagram.png",
+      "PackagePath": "staticwebassets\\img\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\istanbul.jpg",
+      "PackagePath": "staticwebassets\\img\\istanbul.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\izmir.jpeg",
+      "PackagePath": "staticwebassets\\img\\izmir.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\jaz1.jpg",
+      "PackagePath": "staticwebassets\\img\\jaz1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\jazz.jpg",
+      "PackagePath": "staticwebassets\\img\\jazz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\jurassic.jpg",
+      "PackagePath": "staticwebassets\\img\\jurassic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\kalıntı.jpg",
+      "PackagePath": "staticwebassets\\img\\kalıntı.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\kapadokya.jpeg",
+      "PackagePath": "staticwebassets\\img\\kapadokya.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\kaçkar.jpg",
+      "PackagePath": "staticwebassets\\img\\kaçkar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\konser.jpg",
+      "PackagePath": "staticwebassets\\img\\konser.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\köprü.jpg",
+      "PackagePath": "staticwebassets\\img\\köprü.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\logo-cities.png",
+      "PackagePath": "staticwebassets\\img\\logo-cities.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\mevlana.jpg",
+      "PackagePath": "staticwebassets\\img\\mevlana.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\mountain.jpg",
+      "PackagePath": "staticwebassets\\img\\mountain.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\museum.jpg",
+      "PackagePath": "staticwebassets\\img\\museum.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\müze.jpg",
+      "PackagePath": "staticwebassets\\img\\müze.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\müş1.jpg",
+      "PackagePath": "staticwebassets\\img\\müş1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\müş3.jpg",
+      "PackagePath": "staticwebassets\\img\\müş3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\nemrut.jpg",
+      "PackagePath": "staticwebassets\\img\\nemrut.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\new.jpg",
+      "PackagePath": "staticwebassets\\img\\new.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\pamuk.jpg",
+      "PackagePath": "staticwebassets\\img\\pamuk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\plaj.jpg",
+      "PackagePath": "staticwebassets\\img\\plaj.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\plaj1.jpg",
+      "PackagePath": "staticwebassets\\img\\plaj1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\plaj2.jpg",
+      "PackagePath": "staticwebassets\\img\\plaj2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\plaj3.jpg",
+      "PackagePath": "staticwebassets\\img\\plaj3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\plaj4.jpg",
+      "PackagePath": "staticwebassets\\img\\plaj4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\plaj5.png",
+      "PackagePath": "staticwebassets\\img\\plaj5.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\plaj6.jpg",
+      "PackagePath": "staticwebassets\\img\\plaj6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\plaj7.jpg",
+      "PackagePath": "staticwebassets\\img\\plaj7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\plaj8.jpg",
+      "PackagePath": "staticwebassets\\img\\plaj8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\plaj9.jpg",
+      "PackagePath": "staticwebassets\\img\\plaj9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\plan.jpg",
+      "PackagePath": "staticwebassets\\img\\plan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\rabot.jpg",
+      "PackagePath": "staticwebassets\\img\\rabot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\saf.jpg",
+      "PackagePath": "staticwebassets\\img\\saf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\safari.jpg",
+      "PackagePath": "staticwebassets\\img\\safari.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\sanat.jpg",
+      "PackagePath": "staticwebassets\\img\\sanat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\sanat.png",
+      "PackagePath": "staticwebassets\\img\\sanat.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\sato.jpg",
+      "PackagePath": "staticwebassets\\img\\sato.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\satto.jpg",
+      "PackagePath": "staticwebassets\\img\\satto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\sehir.jpg",
+      "PackagePath": "staticwebassets\\img\\sehir.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\sinema.png",
+      "PackagePath": "staticwebassets\\img\\sinema.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\siyah.jpg",
+      "PackagePath": "staticwebassets\\img\\siyah.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\spp.png",
+      "PackagePath": "staticwebassets\\img\\spp.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\sualtı.jpg",
+      "PackagePath": "staticwebassets\\img\\sualtı.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\synthwave-city-kssuxgrn8md3cr5t.jpg",
+      "PackagePath": "staticwebassets\\img\\synthwave-city-kssuxgrn8md3cr5t.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\tarihi.jpg",
+      "PackagePath": "staticwebassets\\img\\tarihi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\tarihi1.jpg",
+      "PackagePath": "staticwebassets\\img\\tarihi1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\tarihi2.jpg",
+      "PackagePath": "staticwebassets\\img\\tarihi2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\teknoloji.png",
+      "PackagePath": "staticwebassets\\img\\teknoloji.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\tiyotra.jpg",
+      "PackagePath": "staticwebassets\\img\\tiyotra.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\toros.jpg",
+      "PackagePath": "staticwebassets\\img\\toros.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\trabzon.jpg",
+      "PackagePath": "staticwebassets\\img\\trabzon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\tree.jpg",
+      "PackagePath": "staticwebassets\\img\\tree.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\truva1.jpg",
+      "PackagePath": "staticwebassets\\img\\truva1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\twitter.png",
+      "PackagePath": "staticwebassets\\img\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\ucakk.jpg",
+      "PackagePath": "staticwebassets\\img\\ucakk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\vadi.jpg",
+      "PackagePath": "staticwebassets\\img\\vadi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\white.jpg",
+      "PackagePath": "staticwebassets\\img\\white.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\yap.jpg",
+      "PackagePath": "staticwebassets\\img\\yap.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\yedigöl.jpg",
+      "PackagePath": "staticwebassets\\img\\yedigöl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\yemek.jpg",
+      "PackagePath": "staticwebassets\\img\\yemek.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\yüksek.png",
+      "PackagePath": "staticwebassets\\img\\yüksek.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\img\\şehir.jpg",
+      "PackagePath": "staticwebassets\\img\\şehir.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\CityExplorerProject\\CityExplorer.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CityExplorer.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CityExplorer.WebUI.props",
+      "PackagePath": "build\\CityExplorer.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CityExplorer.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\CityExplorer.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CityExplorer.WebUI.props",
+      "PackagePath": "buildTransitive\\CityExplorer.WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

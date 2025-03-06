@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CityExplorer.EntitiesLayer", "CityExplorer.EntitiesLayer\CityExplorer.EntitiesLayer.csproj", "{F17EF611-543C-40F1-ADF2-5FCB15667C6D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CityExplorer.DataAccessLayer", "CityExplorer.DataAccessLayer\CityExplorer.DataAccessLayer.csproj", "{983DC4F0-D605-42AD-A290-82BED76D2899}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CityExplorerApi", "CityExplorerApi\CityExplorerApi.csproj", "{A20F4350-396E-488E-9CC9-491DC8C89A27}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CityExplorer.BusinessLayer", "CityExplorer.BusinessLayer\CityExplorer.BusinessLayer.csproj", "{BA97051B-77F6-4051-BE80-1BEAD7EB0900}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CityExplorer.DtoLayer", "CityExplorer.DtoLayer\CityExplorer.DtoLayer.csproj", "{D7FA50FC-3ECE-45F1-922F-1482A305F017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityExplorer.WebUI", "CityExplorer.WebUI\CityExplorer.WebUI.csproj", "{65292D83-E0A6-467A-8409-1A27DB8730AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F17EF611-543C-40F1-ADF2-5FCB15667C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F17EF611-543C-40F1-ADF2-5FCB15667C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F17EF611-543C-40F1-ADF2-5FCB15667C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F17EF611-543C-40F1-ADF2-5FCB15667C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{983DC4F0-D605-42AD-A290-82BED76D2899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983DC4F0-D605-42AD-A290-82BED76D2899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983DC4F0-D605-42AD-A290-82BED76D2899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983DC4F0-D605-42AD-A290-82BED76D2899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A20F4350-396E-488E-9CC9-491DC8C89A27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A20F4350-396E-488E-9CC9-491DC8C89A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A20F4350-396E-488E-9CC9-491DC8C89A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A20F4350-396E-488E-9CC9-491DC8C89A27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA97051B-77F6-4051-BE80-1BEAD7EB0900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA97051B-77F6-4051-BE80-1BEAD7EB0900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA97051B-77F6-4051-BE80-1BEAD7EB0900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA97051B-77F6-4051-BE80-1BEAD7EB0900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7FA50FC-3ECE-45F1-922F-1482A305F017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7FA50FC-3ECE-45F1-922F-1482A305F017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7FA50FC-3ECE-45F1-922F-1482A305F017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7FA50FC-3ECE-45F1-922F-1482A305F017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65292D83-E0A6-467A-8409-1A27DB8730AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65292D83-E0A6-467A-8409-1A27DB8730AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65292D83-E0A6-467A-8409-1A27DB8730AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65292D83-E0A6-467A-8409-1A27DB8730AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0BBE498-A08D-4CCB-AE66-F47691D60193}
+	EndGlobalSection
+EndGlobal

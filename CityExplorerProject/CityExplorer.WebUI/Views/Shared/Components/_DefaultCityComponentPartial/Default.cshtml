@@ -1,0 +1,47 @@
+﻿@model List<ResultCityDto>
+
+<section class="popular-cities py-5">
+    <div class="container text-center">
+        <h2 class="display-5 font-weight-bold mb-4" style="text-align: left;">Popüler Şehirler</h2>
+
+        <div class="container">
+            <div class="chat-images-container-wrapper" style="position: relative; overflow: hidden;">
+                <div class="chat-images-container" style="display: flex; transition: transform 0.3s ease;">
+                    @foreach (var item in Model)
+                    {
+                        <div class="chat-image" style="flex: 0 0 auto; width: 250px; margin-right: 15px;">
+                            <a href="/City/CityDetail/@item.CityID">
+                                <img src="@item.ImageUrl" class="img-fluid" style="width: 100%; height: 250px; object-fit: cover; border-radius: 20px;">
+                            </a>
+                            <h6 style="font-weight: bold; text-align: left; padding-left: 15px;">@item.Name</h6>
+                            <p style="font-size: 12px; text-align: left; padding-left: 15px;">@item.Description</p>
+                        </div>
+                    }
+                </div>
+
+                <button class="prev-btn" style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); background: rgba(0, 0, 0, 0.5); color: white; border: none; padding: 10px; cursor: pointer; border-radius: 50%;">←</button>
+                <button class="next-btn" style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%); background: rgba(0, 0, 0, 0.5); color: white; border: none; padding: 10px; cursor: pointer; border-radius: 50%;">→</button>
+            </div>
+        </div>
+        </div>
+</section>
+
+<script>
+    const prevButton = document.querySelector('.prev-btn');
+    const nextButton = document.querySelector('.next-btn');
+    const container = document.querySelector('.chat-images-container');
+
+    let scrollAmount = 0;
+    const scrollStep = 250;
+    const maxScroll = container.scrollWidth - container.clientWidth;
+
+    nextButton.addEventListener('click', () => {
+        scrollAmount = Math.min(scrollAmount + scrollStep, maxScroll);
+        container.style.transform = `translateX(-${scrollAmount}px)`;
+    });
+
+    prevButton.addEventListener('click', () => {
+        scrollAmount = Math.max(scrollAmount - scrollStep, 0);
+        container.style.transform = `translateX(-${scrollAmount}px)`;
+    });
+</script>
